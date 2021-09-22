@@ -1,9 +1,5 @@
 ### Ola! Sou Fernando Albino 👋
 
-- 🔭 I’m currently working on full-stack
-- 🌱 I’m currently learning Python 
-- 😄 Pronouns: ele/dele
-
 <div>
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernandoalbino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
