@@ -1,31 +1,63 @@
-### Ola! Sou Fernando Albino 👋
+# 👋 Hey there! I'm Fernando Albino
 
-<div>
-  <a href="https://github.com/fernandoalbino">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernandoalbino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandoalbino&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Albino-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
-  <img align="center" alt="Albino-Cpp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-line.svg">
-  <img align="center" alt="Albino-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="Albino-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Albino-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Albino-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Albino-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Albino-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Albino-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Albino-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="Albino-MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
-  
-</div>
+I’m a **Systems Analysis and Development** graduate passionate about technology, automation, and infrastructure.  
+My work blends **full-stack development**, **network engineering**, and **system optimization** — always driven by clarity, performance, and reliability.
 
- ##
-<div> 
-  <a href="https://www.youtube.com/channel/UC77W1WUr1YyOw9Ebz0_u5kg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/fernandoalbino_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:fernandoalbino@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/fernando-albino-95381824/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+I enjoy understanding how things work from the ground up — from software architecture to packet flows across networks — and turning that knowledge into efficient, secure, and elegant solutions.
 
- 
-</div>
+---
+
+## 💼 What I Do
+
+- **Development:** modern web applications, APIs, and automation tools.  
+- **Infrastructure:** managing **Docker**, **Proxmox**, **OpenWrt**, **AdGuard Home**, and **Unbound** environments.  
+- **DevOps & Networking:** container orchestration, service integration, and cloud connectivity.  
+- **Privacy & Performance:** DNS security, VLAN segmentation, and intelligent traffic monitoring.
+
+---
+
+## 🧠 Technical Focus
+
+- **Languages:** TypeScript, JavaScript, Python, PHP, C/C++, HTML, CSS  
+- **Frameworks:** React, Node.js, Express, FastAPI  
+- **Databases:** MySQL, MongoDB, SQLite  
+- **Systems:** OpenWrt, Docker, LXC, Proxmox, Cloudflare Tunnel  
+- **Other Skills:** Git, Linux, Shell scripting, DNSSEC, VPNs, network security
+
+---
+
+## 🚀 What I’m Currently Exploring
+
+- Advanced DNS architecture combining recursive validation, encrypted transport, and network-wide content filtering.
+- Network automation and containerized environments with **Linux + OpenWrt + Proxmox**.  
+- Cross-platform app development using **TypeScript full-stack**.  
+- Real-time monitoring and dashboards focused on performance and energy efficiency.
+
+---
+
+## 🧩 Personal Philosophy
+
+> “Understanding technology deeply is the first step toward building something truly reliable.”
+
+I believe in **open knowledge**, **clear documentation**, and **building tools that simplify life**.  
+I like to test, break, rebuild, and refine until everything feels balanced — efficient, stable, and elegant.
+
+---
+
+## 🌍 Connect with Me
+
+📺 [**YouTube**](https://www.youtube.com/channel/UC77W1WUr1YyOw9Ebz0_u5kg)  
+📸 [**Instagram**](https://www.instagram.com/fernandoalbino_)  
+✉️ [**Email**](mailto:fernandoalbino@gmail.com)  
+💼 [**LinkedIn**](https://www.linkedin.com/in/fernando-albino-95381824/)  
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=fernandoalbino&show_icons=true&theme=transparent&hide_border=true&count_private=true&cache_seconds=86400" height="160em" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=fernandoalbino&layout=compact&langs_count=8&theme=transparent&hide_border=true&cache_seconds=86400" height="160em" />
+</p>
+
+---
+
+<p align="center">💡 “Learn. Simplify. Share.”</p>
