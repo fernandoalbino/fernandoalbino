@@ -54,8 +54,8 @@ I like to test, break, rebuild, and refine until everything feels balanced — e
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=fernandoalbino&show_icons=true&theme=transparent&hide_border=true&count_private=true&cache_seconds=86400" height="160em" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=fernandoalbino&layout=compact&langs_count=8&theme=transparent&hide_border=true&cache_seconds=86400" height="160em" />
+  <img height="160em" src="https://github-readme-stats-one-bice.vercel.app/api?username=fernandoalbino&show_icons=true&theme=transparent&hide_border=true&count_private=true&cache_seconds=86400" />
+  <img height="160em" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=fernandoalbino&layout=compact&langs_count=8&theme=transparent&hide_border=true&cache_seconds=86400" />
 </p>
 
 ---
