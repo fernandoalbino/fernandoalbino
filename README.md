@@ -53,11 +53,4 @@ I like to test, break, rebuild, and refine until everything feels balanced — e
 
 ---
 
-<p align="center">
-  <img height="160em" src="https://github-readme-stats-one-bice.vercel.app/api?username=fernandoalbino&show_icons=true&theme=transparent&hide_border=true&count_private=true&cache_seconds=86400" />
-  <img height="160em" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=fernandoalbino&layout=compact&langs_count=8&theme=transparent&hide_border=true&cache_seconds=86400" />
-</p>
-
----
-
 <p align="center">💡 “Learn. Simplify. Share.”</p>
