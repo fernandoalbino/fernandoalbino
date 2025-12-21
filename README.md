@@ -45,10 +45,7 @@ I like to test, break, rebuild, and refine until everything feels balanced — e
 ---
 
 ## 🌍 Connect with Me
-
-📺 [**YouTube**](https://www.youtube.com/channel/UC77W1WUr1YyOw9Ebz0_u5kg)  
-📸 [**Instagram**](https://www.instagram.com/fernandoalbino_)  
-✉️ [**Email**](mailto:fernandoalbino@gmail.com)  
+✉️ [**Email**](mailto:albino.developer@gmail.com)  
 💼 [**LinkedIn**](https://www.linkedin.com/in/fernando-albino-95381824/)  
 
 ---
